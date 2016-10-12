@@ -38,6 +38,6 @@ http://subtech.g.hatena.ne.jp/miyagawa/rss2
 
 === No RSS Auto-Discovery
 --- input
-http://www.asahi.com
+http://mainichi.jp/
 --- expected eval
 undef

@@ -26,4 +26,4 @@ Bulknews::Subtech
 --- input
 http://blog.bulknews.net/mt/
 --- expected
-blog.bulknews.net
+Tatsuhiko Miyagawa's blog
